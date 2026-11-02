@@ -1,0 +1,22 @@
+{
+  "wheel_id": 685,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsinbrisbane-106",
+  "project": "garage-door-repairs-brisbane-timeline-88d9706eddb31dad8d521a78b",
+  "parent_t1_ref": "garagedoorrepairsinbrisbane-152",
+  "node_role": "feeder",
+  "money_target": "garagedoorrepairsinbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane timeline",
+  "intended_url": "https://aumedia.neocities.org/garage-door-repairs-brisbane-timeline-88d9706eddb31dad8d521a78b/",
+  "tier": "T2",
+  "writeback_nonce": "8c230ed0a43cf5e4",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/garage-door-repairs-brisbane-questions-to-ask-ae735040b5142eebd/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
